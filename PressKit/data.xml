@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Early Melon</title>
+	<founding-date>September 1, 2013</founding-date>
+	<website></website>
+	<based-in>Seoul South korea</based-in>
+	
+	<press-contact>early.melon@gmail.com</press-contact>
+	<phone>+82 10-3179-9273</phone>
+	<address>
+		<line>164gil-16 siheung DAE-ro gwanak-gu seoul korea</line>
+		<line></line>
+		<line></line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/early_melon</name>
+			<link>twitter.com/early_melon</link>
+		</social>
+		<social>
+			<name>facebook.com/RoofRage</name>
+			<link>facebook.com/RoofRage</link>
+		</social>
+		<social>
+			<name>roofrage.com</name>
+			<link>roofrage.com</link>
+		</social>
+	</socials>
+
+	<description>
+		Early Melon is an independent game studio created by Jérémie Klemke, currently settled in Seoul South Korea.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Early Melon was founded in 2014 by Jérémie Klemke, after working as a freelance developer for a few years.
+				</text>
+		</history>
+		<history>
+			<header>For few years</header>
+			<text>Some small scale mobile games were created like Tiny Magnets, HyperSpace and the Tomato World series.</text>
+		</history>
+		<history>
+			<header>Recent</header>
+			<text>Now focusing on Roof Rage, an upcoming multiplayer online/local platform fighter, this time designed for PC. Started end of 2015, after 2+ years and a one year old daughter... the game is finally coming to Steam Early Access June 8th 2018.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name></name>
+			<youtube></youtube>
+		</trailer>
+		<trailer>
+			<name></name>
+			<youtube></youtube>
+			<vimeo></vimeo>
+		</trailer>
+	</trailers>
+	<awards>
+		<award>
+			<description>Winner in Multiplayer</description>
+			<info>Busan Indie Connect, 2017</info>
+		</award>
+		<award>
+			<description>Sponsor Award WEGL</description>
+			<info>Busan Indie Connect, 2017</info>
+		</award>
+	</awards>
+	<!--
+	<quotes>
+		<quote>
+			<description></description>
+			<name></name>
+			<website></website>
+			<link></link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+	</quotes>-->
+	
+	<press-can-request-copy>true</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+																				
+	<!--
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	-->
+	<credits>
+		<credit>
+			<person>Jérémie Klemke</person>
+			<website>www.twitter.com/earlymelon</website>
+			<role>Sole Creator, Development, Design &amp; Arts</role>
+		</credit>
+		<credit>
+			<person>Enrique Martin Gay</person>
+			<website>www.soundcloud.com/pentadrangle</website>
+			<role>Music Composer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>early.melon@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>roofrage.com</link>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/early_melon</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/RoofRage</link>
+		</contact>
+		
+		
+		
+	</contacts>
+</game>
